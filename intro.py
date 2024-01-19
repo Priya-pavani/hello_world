@@ -3,4 +3,7 @@ def say_hello():
 
 def say_name():
     print("My name is priya")
+
+def say_bye():
+    print('Byeeeeeeee....')
 say_hello()
